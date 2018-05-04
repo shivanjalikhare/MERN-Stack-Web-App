@@ -1,7 +1,7 @@
 import nodemailer from "nodemailer";
 import dotenv from "dotenv";
 
-const from = '"Bookworm" <info@bookworm.com>';
+const from = '"jobworm" <info@jobworm.com>';
 dotenv.config();
 
 function setup() {
